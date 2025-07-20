@@ -171,9 +171,9 @@ with col2:
     # Query categories with examples
     categories = {
         "Market Sentiment": [
-            "What impact did the 2025 AI Regulation Act have on tech stocks?",
+            "What did Warren Buffett say in his latest annual report?",
             "What is the market sentiment around SpaceX's Mars mission?",
-            "How have the latest quantum computing breakthroughs affected tech stocks?"
+            "What is the market sentiment around Tesla stock?"
         ],
         "Stock Data": [
             "What is the current price of AAPL?",  # Keeping this as it's a timeless query
